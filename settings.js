@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'ARK INDO GEN'// yourname
-global.MONGO_DB_URI = "Gendb" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://dadanirawan888:wanasalam1@genark.sm2hxp6.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "dadanirawan888@gmail.com" //email
 global.email_password = "" //application password email
