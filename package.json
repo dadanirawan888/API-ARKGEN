@@ -1,14 +1,14 @@
 {
-  "name": "my-rest-api",
+  "name": "API-ARKGEN",
   "version": "1.0.0",
-  "description": "Rest api created by Zeeoneofc",
+  "description": "Rest api created by ARK INDO GEN",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zeeoneofficial/my-rest-api.git"
+    "url": "https://github.com/dadanirawan888/API-ARKGEN.git"
   },
   "keywords": [
     "nodejs-restapi",
@@ -19,7 +19,7 @@
     "website",
     "apikey"
   ],
-  "author": "Zeeoneofc",
+  "author": "arkindogen",
   "license": "ISC",
   "dependencies": {
     "@bochilteam/scraper": "^3.0.0",
@@ -54,5 +54,5 @@
     "request": "^2.88.2",
     "ssl-express-www": "^3.0.7"
   },
-  "homepage": "https://github.com/zeeoneofficial/my-rest-api#readme"
+  "homepage": "https://github.com/dadanirawan888/API-ARKGEN.git"
 }
